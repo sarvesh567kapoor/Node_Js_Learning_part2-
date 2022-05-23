@@ -1,0 +1,1 @@
+Hi this is the text file  which is present in the subfolder of the content folder
